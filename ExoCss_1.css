@@ -5,7 +5,7 @@
 }
 
 .coucou {
-    color: black;
+    color: blue;
     text-align: center;
     margin: 0%;
     font-size: 20px;
@@ -13,6 +13,7 @@
 
 .contenu {
     background-color: green;
+    position: relative;
     height: 700px;
     margin: 0%;
 

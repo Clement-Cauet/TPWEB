@@ -64,6 +64,49 @@
     top: 300px;
 }
 
+.parbre {
+    color: white;
+    text-align: center;
+    margin: 0%;
+    position: relative;
+    top: 330px;
+}
+
+.vol1 {
+    color: white;
+    text-align: center;
+    margin: 0%;
+    position: relative;
+    top: 370px;
+}
+
+.vol2 {
+    color: white;
+    text-align: center;
+    margin: 0%;
+    position: relative;
+    top: 380px;
+}
+
+.news_cabane {
+    background-color: yellow;
+    position: relative;
+    top: -1400px;
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin: 0%;
+}
+
+.cabane {
+    color: black;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+    top: 100px;
+    margin: 0%;
+}
+
 .footer {
     background-color: grey;
     height: 20px;
